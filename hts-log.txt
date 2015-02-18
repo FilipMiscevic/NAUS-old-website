@@ -1,0 +1,129 @@
+HTTrack3.48-19+htsswf+htsjava launched on Wed, 18 Feb 2015 12:43:26 at http://naus.sa.utoronto.ca +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://naus.sa.utoronto.ca -O1 "C:\My Web Sites\NAUS old website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:38	Error: 	"Not Found" (404) at link naus.sa.utoronto.ca/comments/feed/ (from naus.sa.utoronto.ca/)
+14:43:45	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=2
+14:43:45	Warning: 	File has moved from naus.sa.utoronto.ca/?p=2 to http://naus.sa.utoronto.ca/about/
+14:43:49	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=6
+14:43:49	Warning: 	File has moved from naus.sa.utoronto.ca/?p=6 to http://naus.sa.utoronto.ca/past-tests/
+14:43:51	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=577
+14:43:51	Warning: 	File has moved from naus.sa.utoronto.ca/?p=577 to http://naus.sa.utoronto.ca/snowball-pictures/
+14:43:55	Warning: 	Found for naus.sa.utoronto.ca/snowball-pictures/trackback/
+14:43:55	Warning: 	File has moved from naus.sa.utoronto.ca/snowball-pictures/trackback/ to http://naus.sa.utoronto.ca/snowball-pictures/
+14:43:58	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=843
+14:43:58	Warning: 	File has moved from naus.sa.utoronto.ca/?p=843 to http://naus.sa.utoronto.ca/everything-n-pictures/
+14:44:03	Warning: 	Found for naus.sa.utoronto.ca/everything-n-pictures/trackback/
+14:44:03	Warning: 	File has moved from naus.sa.utoronto.ca/everything-n-pictures/trackback/ to http://naus.sa.utoronto.ca/everything-n-pictures/
+14:44:05	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=1038
+14:44:05	Warning: 	File has moved from naus.sa.utoronto.ca/?p=1038 to http://naus.sa.utoronto.ca/2013-midnight-mask-formal-pictures/
+14:44:07	Warning: 	Found for naus.sa.utoronto.ca/2013-midnight-mask-formal-pictures/trackback/
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/2013-midnight-mask-formal-pictures/trackback/ to http://naus.sa.utoronto.ca/2013-midnight-mask-formal-pictures/
+14:44:07	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=1170
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/?p=1170 to http://naus.sa.utoronto.ca/executive-members-2013-2014/
+14:44:07	Warning: 	Found for naus.sa.utoronto.ca/executive-members-2013-2014/trackback/
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/executive-members-2013-2014/trackback/ to http://naus.sa.utoronto.ca/executive-members-2013-2014/
+14:44:07	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=1175
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/?p=1175 to http://naus.sa.utoronto.ca/httpnausuoft-wordpress-com/
+14:44:07	Warning: 	Found for naus.sa.utoronto.ca/httpnausuoft-wordpress-com/trackback/
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/httpnausuoft-wordpress-com/trackback/ to http://naus.sa.utoronto.ca/httpnausuoft-wordpress-com/
+14:44:07	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=1166
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/?p=1166 to http://naus.sa.utoronto.ca/2013/04/05/official-new-naus-council-2013-2014/
+14:44:07	Warning: 	Found for naus.sa.utoronto.ca/2013/04/05/official-new-naus-council-2013-2014/trackback/
+14:44:07	Warning: 	File has moved from naus.sa.utoronto.ca/2013/04/05/official-new-naus-council-2013-2014/trackback/ to http://naus.sa.utoronto.ca/2013/04/05/official-new-naus-council-2013-2014/
+14:44:10	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=1129
+14:44:10	Warning: 	File has moved from naus.sa.utoronto.ca/?p=1129 to http://naus.sa.utoronto.ca/2013/03/31/1129/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2013/03/31/1129/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2013/03/31/1129/trackback/ to http://naus.sa.utoronto.ca/2013/03/31/1129/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=1121
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=1121 to http://naus.sa.utoronto.ca/2013/03/31/1121/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2013/03/31/1121/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2013/03/31/1121/trackback/ to http://naus.sa.utoronto.ca/2013/03/31/1121/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=665
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=665 to http://naus.sa.utoronto.ca/2012/07/27/looking-for-volunteers/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2012/07/27/looking-for-volunteers/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2012/07/27/looking-for-volunteers/trackback/ to http://naus.sa.utoronto.ca/2012/07/27/looking-for-volunteers/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=664
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=664 to http://naus.sa.utoronto.ca/2012/04/13/naus-2012-2013-execs/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2012/04/13/naus-2012-2013-execs/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2012/04/13/naus-2012-2013-execs/trackback/ to http://naus.sa.utoronto.ca/2012/04/13/naus-2012-2013-execs/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=658
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=658 to http://naus.sa.utoronto.ca/2012/04/04/naus-2012-2013-polls-closed/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2012/04/04/naus-2012-2013-polls-closed/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2012/04/04/naus-2012-2013-polls-closed/trackback/ to http://naus.sa.utoronto.ca/2012/04/04/naus-2012-2013-polls-closed/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=653
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=653 to http://naus.sa.utoronto.ca/2012/04/03/sona-university-of-toronto-april-30th-2012/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2012/04/03/sona-university-of-toronto-april-30th-2012/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2012/04/03/sona-university-of-toronto-april-30th-2012/trackback/ to http://naus.sa.utoronto.ca/2012/04/03/sona-university-of-toronto-april-30th-2012/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=611
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=611 to http://naus.sa.utoronto.ca/2012/03/17/naus-elections/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2012/03/17/naus-elections/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2012/03/17/naus-elections/trackback/ to http://naus.sa.utoronto.ca/2012/03/17/naus-elections/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=609
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=609 to http://naus.sa.utoronto.ca/2012/03/10/calendar-updated/
+14:44:11	Warning: 	Found for naus.sa.utoronto.ca/2012/03/10/calendar-updated/trackback/
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/2012/03/10/calendar-updated/trackback/ to http://naus.sa.utoronto.ca/2012/03/10/calendar-updated/
+14:44:11	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=600
+14:44:11	Warning: 	File has moved from naus.sa.utoronto.ca/?p=600 to http://naus.sa.utoronto.ca/2012/03/09/grad-school-opportunity/
+14:44:16	Warning: 	Found for naus.sa.utoronto.ca/2012/03/09/grad-school-opportunity/trackback/
+14:44:16	Warning: 	File has moved from naus.sa.utoronto.ca/2012/03/09/grad-school-opportunity/trackback/ to http://naus.sa.utoronto.ca/2012/03/09/grad-school-opportunity/
+14:44:27	Error: 	"Not Found" (404) at link naus.sa.utoronto.ca/executive-members-2011-2012/ (from naus.sa.utoronto.ca/page/2/)
+14:44:43	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=597
+14:44:43	Warning: 	File has moved from naus.sa.utoronto.ca/?p=597 to http://naus.sa.utoronto.ca/2012/02/17/brain-day-volunteers-needed/
+14:44:46	Warning: 	Found for naus.sa.utoronto.ca/2012/02/17/brain-day-volunteers-needed/trackback/
+14:44:46	Warning: 	File has moved from naus.sa.utoronto.ca/2012/02/17/brain-day-volunteers-needed/trackback/ to http://naus.sa.utoronto.ca/2012/02/17/brain-day-volunteers-needed/
+14:44:49	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=587
+14:44:49	Warning: 	File has moved from naus.sa.utoronto.ca/?p=587 to http://naus.sa.utoronto.ca/2012/02/02/snowball-pictures/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2012/02/02/snowball-pictures/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2012/02/02/snowball-pictures/trackback/ to http://naus.sa.utoronto.ca/2012/02/02/snowball-pictures/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=480
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=480 to http://naus.sa.utoronto.ca/2012/01/14/the-2nd-annual-canadian-university-life-sciences-challenge-culsc/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2012/01/14/the-2nd-annual-canadian-university-life-sciences-challenge-culsc/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2012/01/14/the-2nd-annual-canadian-university-life-sciences-challenge-culsc/trackback/ to http://naus.sa.utoronto.ca/2012/01/14/the-2nd-annual-canadian-university-life-sciences-challenge-culsc/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=478
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=478 to http://naus.sa.utoronto.ca/2012/01/14/naus-frosh-second-year-rep-elections/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2012/01/14/naus-frosh-second-year-rep-elections/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2012/01/14/naus-frosh-second-year-rep-elections/trackback/ to http://naus.sa.utoronto.ca/2012/01/14/naus-frosh-second-year-rep-elections/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=475
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=475 to http://naus.sa.utoronto.ca/2012/01/14/last-day-for-ticket-sales/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2012/01/14/last-day-for-ticket-sales/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2012/01/14/last-day-for-ticket-sales/trackback/ to http://naus.sa.utoronto.ca/2012/01/14/last-day-for-ticket-sales/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=432
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=432 to http://naus.sa.utoronto.ca/2011/12/02/naus-hbsu-presents-the-winter-formal-snowball/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2011/12/02/naus-hbsu-presents-the-winter-formal-snowball/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2011/12/02/naus-hbsu-presents-the-winter-formal-snowball/trackback/ to http://naus.sa.utoronto.ca/2011/12/02/naus-hbsu-presents-the-winter-formal-snowball/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=429
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=429 to http://naus.sa.utoronto.ca/2011/10/29/mentorship-mingle-and-karaoke-night/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2011/10/29/mentorship-mingle-and-karaoke-night/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2011/10/29/mentorship-mingle-and-karaoke-night/trackback/ to http://naus.sa.utoronto.ca/2011/10/29/mentorship-mingle-and-karaoke-night/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=417
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=417 to http://naus.sa.utoronto.ca/2011/10/22/417/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2011/10/22/417/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2011/10/22/417/trackback/ to http://naus.sa.utoronto.ca/2011/10/22/417/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=406
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=406 to http://naus.sa.utoronto.ca/2011/10/16/academic-seminar-and-first-general-meeting/
+14:44:50	Warning: 	Found for naus.sa.utoronto.ca/2011/10/16/academic-seminar-and-first-general-meeting/trackback/
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/2011/10/16/academic-seminar-and-first-general-meeting/trackback/ to http://naus.sa.utoronto.ca/2011/10/16/academic-seminar-and-first-general-meeting/
+14:44:50	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=400
+14:44:50	Warning: 	File has moved from naus.sa.utoronto.ca/?p=400 to http://naus.sa.utoronto.ca/2011/10/05/2nd-year-social-committee/
+14:44:54	Warning: 	Found for naus.sa.utoronto.ca/2011/10/05/2nd-year-social-committee/trackback/
+14:44:54	Warning: 	File has moved from naus.sa.utoronto.ca/2011/10/05/2nd-year-social-committee/trackback/ to http://naus.sa.utoronto.ca/2011/10/05/2nd-year-social-committee/
+14:44:59	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=394
+14:44:59	Warning: 	File has moved from naus.sa.utoronto.ca/?p=394 to http://naus.sa.utoronto.ca/2011/09/19/4th-year-rep/
+14:45:00	Warning: 	Found for naus.sa.utoronto.ca/2011/09/19/4th-year-rep/trackback/
+14:45:00	Warning: 	File has moved from naus.sa.utoronto.ca/2011/09/19/4th-year-rep/trackback/ to http://naus.sa.utoronto.ca/2011/09/19/4th-year-rep/
+14:45:00	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=319
+14:45:00	Warning: 	File has moved from naus.sa.utoronto.ca/?p=319 to http://naus.sa.utoronto.ca/2011/09/14/naus-bbq-7/
+14:45:03	Warning: 	Found for naus.sa.utoronto.ca/2011/09/14/naus-bbq-7/trackback/
+14:45:03	Warning: 	File has moved from naus.sa.utoronto.ca/2011/09/14/naus-bbq-7/trackback/ to http://naus.sa.utoronto.ca/2011/09/14/naus-bbq-7/
+14:45:05	Warning: 	Moved Permanently for naus.sa.utoronto.ca/?p=307
+14:45:05	Warning: 	File has moved from naus.sa.utoronto.ca/?p=307 to http://naus.sa.utoronto.ca/2011/09/12/naus-2011-2012/
+14:45:05	Warning: 	Found for naus.sa.utoronto.ca/2011/09/12/naus-2011-2012/trackback/
+14:45:05	Warning: 	File has moved from naus.sa.utoronto.ca/2011/09/12/naus-2011-2012/trackback/ to http://naus.sa.utoronto.ca/2011/09/12/naus-2011-2012/
+
+HTTrack Website Copier/3.48-19 mirror complete in 2 hours 1 minutes 39 seconds : 751 links scanned, 690 files written (178229757 bytes overall) [177654656 bytes received at 24339 bytes/sec], 1186111 bytes transferred using HTTP compression in 153 files, ratio 26%, 2.5 requests per connection
+(2 errors, 116 warnings, 0 messages)
